@@ -8,3 +8,13 @@
 /Users/Zach/Projects/TaskManager/TaskManagerBackend/obj/Debug/netcoreapp1.1/TaskManagerBackend.AssemblyInfo.cs
 /Users/Zach/Projects/TaskManager/TaskManagerBackend/obj/Debug/netcoreapp1.1/TaskManagerBackend.dll
 /Users/Zach/Projects/TaskManager/TaskManagerBackend/obj/Debug/netcoreapp1.1/TaskManagerBackend.pdb
+/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/bin/Debug/netcoreapp1.1/TaskManagerBackend.deps.json
+/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/bin/Debug/netcoreapp1.1/TaskManagerBackend.runtimeconfig.json
+/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/bin/Debug/netcoreapp1.1/TaskManagerBackend.runtimeconfig.dev.json
+/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/obj/Debug/netcoreapp1.1/TaskManagerBackend.csprojResolveAssemblyReference.cache
+/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/obj/Debug/netcoreapp1.1/TaskManagerBackend.csproj.CoreCompileInputs.cache
+/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/obj/Debug/netcoreapp1.1/TaskManagerBackend.AssemblyInfo.cs
+/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/obj/Debug/netcoreapp1.1/TaskManagerBackend.dll
+/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/obj/Debug/netcoreapp1.1/TaskManagerBackend.pdb
+/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/bin/Debug/netcoreapp1.1/TaskManagerBackend.dll
+/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/bin/Debug/netcoreapp1.1/TaskManagerBackend.pdb

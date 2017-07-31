@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{9DB9CD50-0076-48B5-AEBF-2B1A6C38488D}|Default">
   <MonoDevelop.Ide.ItemProperties.TaskManagerBackend PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TaskManagerBackend/TaskItem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskManagerBackend/TaskWrapper.cs">
     <Files>
       <File FileName="TaskManagerBackend/Program.cs" Line="9" Column="11" />
-      <File FileName="TaskManagerBackend/TaskItem.cs" Line="8" Column="32" />
-      <File FileName="TaskManagerBackend/TaskType.cs" Line="9" Column="1" />
+      <File FileName="TaskManagerBackend/TaskItem.cs" Line="21" Column="6" />
+      <File FileName="TaskManagerBackend/TaskFlags.cs" Line="3" Column="2" />
+      <File FileName="TaskManagerBackend/TaskWrapper.cs" Line="6" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

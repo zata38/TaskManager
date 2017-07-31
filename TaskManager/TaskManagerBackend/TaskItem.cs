@@ -1,13 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace TaskManagerBackend
 {
-    public class TaskItem
-    {
-        private bool HasChildren { get; set; }
-
-        public TaskItem()
-        {
-            
-        }
-    }
+    
 }

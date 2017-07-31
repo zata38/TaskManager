@@ -14533,10 +14533,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Zach/Projects/TaskManager/TaskManagerBackend/TaskManagerBackend.csproj",
+      "projectUniqueName": "/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/TaskManagerBackend.csproj",
       "projectName": "TaskManagerBackend",
-      "projectPath": "/Users/Zach/Projects/TaskManager/TaskManagerBackend/TaskManagerBackend.csproj",
-      "outputPath": "/Users/Zach/Projects/TaskManager/TaskManagerBackend/obj",
+      "projectPath": "/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/TaskManagerBackend.csproj",
+      "outputPath": "/Users/Zach/Documents/GitHub/TaskManager/TaskManager/TaskManagerBackend/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
