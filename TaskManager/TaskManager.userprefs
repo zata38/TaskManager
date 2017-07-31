@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{9DB9CD50-0076-48B5-AEBF-2B1A6C38488D}|Default">
+  <MonoDevelop.Ide.ItemProperties.TaskManagerBackend PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskManagerBackend/TaskItem.cs">
+    <Files>
+      <File FileName="TaskManagerBackend/Program.cs" Line="9" Column="11" />
+      <File FileName="TaskManagerBackend/TaskItem.cs" Line="8" Column="32" />
+      <File FileName="TaskManagerBackend/TaskType.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

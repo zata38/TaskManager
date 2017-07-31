@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Zach/.nuget/packages"
+    ]
+  }
+}
